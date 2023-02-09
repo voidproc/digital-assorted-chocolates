@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "digital-assorted-chocolates", "digital-assorted-chocolates\digital-assorted-chocolates.vcxproj", "{4F0285C6-6EC5-4BA6-838A-793789897DA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F0285C6-6EC5-4BA6-838A-793789897DA4}.Debug|x64.ActiveCfg = Debug|x64
+		{4F0285C6-6EC5-4BA6-838A-793789897DA4}.Debug|x64.Build.0 = Debug|x64
+		{4F0285C6-6EC5-4BA6-838A-793789897DA4}.Release|x64.ActiveCfg = Release|x64
+		{4F0285C6-6EC5-4BA6-838A-793789897DA4}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53DB6B64-1445-44B4-A5FE-B29F109EF5AF}
+	EndGlobalSection
+EndGlobal
